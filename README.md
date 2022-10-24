@@ -15,7 +15,7 @@ cd zombit
 After the compilation stage, folder `build` should have an executable `main to test the structure:
 ```
 cd build/ 
-./main`<size> <test>
+./main <size> <test>
 ```
 Where the executable `main` has two options:
 1. **size**: the length of a random generated bitmap.
