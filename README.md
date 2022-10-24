@@ -24,7 +24,7 @@ Where the executable `main` has two options:
 ## Authors
 Adrián Gómez Brandón ([adrian.gbrandon@udc.es](mailto:adrian.gbrandon@udc.es))
 
-##References
+## References
 
 [1] Gómez-Brandón, A. (2020, March). Bitvectors with runs and the successor/predecessor problem. In 2020 Data Compression Conference (DCC) (pp. 133-142). IEEE.
 
